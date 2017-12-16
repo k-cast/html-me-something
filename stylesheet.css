@@ -1,11 +1,25 @@
 body {
 	width: 100%;
-	max-width: 1024px;
+	max-width: 1000px;
 	margin: 0 auto;
-	background-color: rgb(0, 0, 0);
+	background-color: rgb(121, 121, 121);
 	font-size: 62.5%;
 }
+.top{
+	background: #000;
+	border: 1px solid rgb(0, 0, 0);
+	padding: 10px;
+	color: rgb(0, 0, 0);
+	width: 1000px;
+}
 
+#article {
+	background: rgb(255, 255, 255);
+	border: 1px solid rgb(0, 0, 0);
+	padding: 10px;
+	color: rgb(0, 0, 0);
+	width: 1000px;
+}
 header,
 main,
 footer {
